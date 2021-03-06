@@ -1,0 +1,13 @@
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\bin\Debug\netcoreapp3.1\DatingProfile.exe
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\bin\Debug\netcoreapp3.1\DatingProfile.deps.json
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\bin\Debug\netcoreapp3.1\DatingProfile.runtimeconfig.json
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\bin\Debug\netcoreapp3.1\DatingProfile.runtimeconfig.dev.json
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\bin\Debug\netcoreapp3.1\DatingProfile.dll
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\bin\Debug\netcoreapp3.1\DatingProfile.pdb
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\obj\Debug\netcoreapp3.1\DatingProfile.csprojAssemblyReference.cache
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\obj\Debug\netcoreapp3.1\DatingProfile.AssemblyInfoInputs.cache
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\obj\Debug\netcoreapp3.1\DatingProfile.AssemblyInfo.cs
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\obj\Debug\netcoreapp3.1\DatingProfile.csproj.CoreCompileInputs.cache
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\obj\Debug\netcoreapp3.1\DatingProfile.dll
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\obj\Debug\netcoreapp3.1\DatingProfile.pdb
+D:\nauka\KURSY\codeAcademy\C#\Dating-Profile\DatingProfile\DatingProfile\obj\Debug\netcoreapp3.1\DatingProfile.genruntimeconfig.cache
